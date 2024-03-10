@@ -1,3 +1,19 @@
+// LONGEST SUBSTRING WITHOUT REPEATING CHARACTERS
+// You are given a string s. Your task is to find the length of the longest substring that contains each character at most once.
+// A substring is a contiguous sequence of characters within a string.
+// Input
+// Enter the String without any space
+// Output
+// Return the length as integer
+// Example
+// Input:
+
+// xyzxyzyy
+// Output:
+
+// 3
+
+
 import java.util.HashMap;
 import java.util.Scanner;
 

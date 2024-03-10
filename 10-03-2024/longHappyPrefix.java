@@ -1,3 +1,21 @@
+// LONGEST HAPPY PREFIX
+// A string is called a happy prefix if is a non-empty prefix which is also a suffix (excluding itself).
+// Given a string s. Return the longest happy prefix of s .
+// Return an empty string if no such prefix exists.
+// Input
+// Enter the String
+// Output
+// Print the longest happy prefix
+// Example
+// Input:
+
+// level
+// Output:
+
+// l
+
+
+
 import java.util.Scanner;
 
 class LongestHappyPrefix {

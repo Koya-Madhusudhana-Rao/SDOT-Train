@@ -1,3 +1,29 @@
+// GENERATE PARENTHESIS
+// Given a positive integer n, write a function to generate all combinations of well-formed parentheses. The goal is to generate all possible combinations of parentheses such that they are balanced.
+
+// A well-formed parentheses string is defined as follows:
+
+// The empty string is well-formed.
+// If "X" is a well-formed parentheses string, then "(X)" is also well-formed.
+// If "X" and "Y" are well-formed parentheses strings, then "XY" is also well-formed.
+// Input
+// Enter the value of n
+// Output
+// Combinations of well-formed parentheses for n
+// Example
+// Input:
+
+// 3
+// Output:
+
+// ((()))
+// (()())
+// (())()
+// ()(())
+// ()()()
+
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

@@ -1,3 +1,29 @@
+// SPIRAL MATRIX
+// Print a given matrix in spiral form.
+
+// Given a 2D array, print it in spiral form. Refer the following examples.
+// Input
+// In First Line, Enter the number of rows
+// In Second Line, Enter the number of columns
+// In Third Line, Enter the matrix elements
+// Output
+// Print the Spiral elements
+// Example
+// Input:
+
+// 3
+// 3
+// 1 2 3
+// 4 5 6
+// 7 8 9
+// Output:
+
+// 1 2 3 6 9 8 7 4 5
+
+
+
+
+
 /* package whatever; // don't place package name! */
 
 import java.util.*;

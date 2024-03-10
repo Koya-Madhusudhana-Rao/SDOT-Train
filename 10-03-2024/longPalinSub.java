@@ -1,3 +1,21 @@
+// LONGEST PALINDROMIC SUBSTRING
+// Given a string, we have to find the longest palindromic substring.
+// (substring is a sequence of characters that is contiguous within a string.
+//  For example, the string “Interviewbit”, “er”, “view”, “bit”,…etc are substrings, 
+// but not “tr” as both these characters are not continuous. 
+// Whereas palindrome is a word that reads the same backward as forwards. Examples include abba, zzzz, xyyx).
+// Input
+// Enter the string without any space.
+// Output
+// Print the Palindrome as a string.
+// Example
+// Input:
+
+// babad
+// Output:
+
+// bab
+
 import java.util.Scanner;
 
 class LongestPalindromicSubstring {

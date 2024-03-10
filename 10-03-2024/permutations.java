@@ -1,3 +1,26 @@
+// PERMUTATIONS
+// Problem Statement: Generating Permutations using Backtracking
+
+// Given a set of distinct integers, write a program to generate all possible permutations of the elements in the set.
+
+// Input
+// Enter the elements as a space-separated string
+// Output
+// Print the Permutations of the set.
+// Example
+// Input:
+
+// 1 2 3
+// Output:
+
+// 1 2 3
+// 1 3 2
+// 2 1 3 
+// 2 3 1
+// 3 2 1
+// 3 1 2
+
+
 import java.util.*;
 
 class Main {

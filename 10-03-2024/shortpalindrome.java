@@ -1,3 +1,18 @@
+// SHORTEST PALINDROME
+// Given a string, find the shortest palindrome that can be obtained by adding characters in front of it.
+// Input
+// Enter the String without any space.
+// Output
+// Print the shortest palindrome in String.
+// Example
+// Input:
+
+// race
+// Output:
+
+// ecarace
+
+
 /* package whatever; // don't place package name! */
 
 import java.util.*;
