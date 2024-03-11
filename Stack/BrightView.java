@@ -1,3 +1,23 @@
+// BINARY RIGHT SIDE VIEW
+// You are given a root pointer to the root of binary tree. You have to print the right view of the tree from top to bottom.
+
+// Note The right view of a tree is the set of nodes that are visible from the right side.
+
+// You need to complete the given function. The input and printing of output will be handled by the driver code.
+
+// Input
+// The first line contains the number of test cases. The second line contains a string giving array representation of a tree, if the root has no children give N in input.
+
+// Output
+// For each test case print the right view of the binary tree.
+
+// Example
+// Input: 1 1 2 3
+
+// Output: 1 3
+
+
+
 // 1
 
 import java.util.*;
@@ -13,7 +33,7 @@ class TreeNode{
     }
 }
 
-public class que1{
+public class BrightView{
 	public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();

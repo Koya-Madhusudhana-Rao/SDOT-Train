@@ -1,3 +1,31 @@
+// VALIDATE BINARY SEARCH TREE
+// Given a binary tree with N number of nodes, check if that input tree is BST (Binary Search Tree) or not. 
+// If yes, print true, print false otherwise. A binary search tree (BST) is a binary tree data structure which
+//  has the following properties.
+
+// • The left subtree of a node contains only nodes with data less than the node’s data.
+
+// • The right subtree of a node contains only nodes with data greater than the node’s data.
+
+// • Both the left and right subtrees must also be binary search trees.
+// Input
+// The first line contains an Integer 't', which denotes the number of test cases or queries to be run. Then the test cases follow.
+// The first line of input contains the elements of the tree in the level order form separated by a single space.
+// If any node does not have a left or right child, take -1 in its place.
+// Output
+// For each test case, print true if the binary tree is a BST, else print false.
+
+// Output for every test case will be denoted in a separate line.
+// Example
+// Input:
+
+// 1
+// 3 1 5 -1 2 -1 -1 -1 -1
+// Output:
+
+// true
+
+
 //7
 
 

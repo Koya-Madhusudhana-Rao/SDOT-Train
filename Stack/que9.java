@@ -1,3 +1,26 @@
+// NUMBER OF ISLANDS
+// You are given a 2D matrix grid of size n * m. 
+// You have to find the number of distinct islands where a group of connected 1s (horizontally or vertically) forms an island.
+//  Two islands are considered to be distinct if and only if one island is not equal to another (rotated or reflected islands are not euqal).
+// Input
+// The first line contains  integers value of N rows.
+// The first line contains  integers value of M columns.
+// Next N line contains M boolean values where 1 denotes land and 0 denotes water.
+// Output
+// Print total number of distinct islands.
+// Example
+// Input:
+
+// 3
+// 4
+// 1 0 1 0
+// 1 1 0 0
+// 0 0 1 1
+// Output:
+
+// 3
+
+
 //9
 
 

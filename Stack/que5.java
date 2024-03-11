@@ -1,3 +1,24 @@
+// FLATTEN BINARY TREE TO LINKED LIST
+// Flatten Binary Tree To Linked List. Write a program that flattens a given binary tree to a linked list.
+
+// Note: 
+
+// The sequence of nodes in the linked list should be the same as that of the preorder traversal of the binary tree.
+// The linked list nodes are the same binary tree nodes. You are not allowed to create extra nodes.
+// The right child of a node points to the next node of the linked list whereas the left child points to NULL.
+
+// TREE MODEL:
+//     1
+//   2   5
+// 3 4     6
+//           7
+// INPUT:
+
+// 12534N6NNNNNNN7
+// OUTPUT:
+
+// 1 2 3 4 5 6 7
+
 //5
 
 

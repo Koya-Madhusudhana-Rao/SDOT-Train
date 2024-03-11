@@ -1,3 +1,29 @@
+// COURSE SCHEDULE
+// You are given a number N, the number of courses you have to take labeled from 0 t N-1. 
+// You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must 
+// take course bi first if you want to take course ai.
+
+// eg: [2,4] means take course 4 before you can take course 2.
+// Input
+// The First line of input number of courses (N).
+// The Second line of input size of prerequisites array (M)
+// Next line contains two integer each denoting ai and bi.
+// Output
+// print 1 if it is possible to finish all the courses else print 0.
+// Example
+// Input:
+
+// 5
+// 4
+// 1 0
+// 2 1
+// 3 2
+// 4 3
+// Output:
+
+// 1
+
+
 //10
 
 

@@ -1,3 +1,19 @@
+// DIAMETER OF BINARY TREE
+// Given a root of a binary tree, write a function to get the diameter of the tree. The diameter of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root.
+
+// Input
+// You are given a string s which describes the nodes of the binary tree. (The first element corresponds to the root, the second is the left child of the root and so on). In the function, you are provided with the root of the binary tree.
+
+// Output
+// Return the diameter of the binary tree.
+
+// Example
+// Input: 8 2 1 3 N N 5
+
+// Output: 5
+
+
+
 //2 
 
 

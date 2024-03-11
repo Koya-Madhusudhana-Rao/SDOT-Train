@@ -1,3 +1,30 @@
+// SUM ROOT TO LEAF NODES
+// Given a binary tree, where every node value is a Digit from 1-9. Find the sum of all the numbers which are formed from root to leaf paths.
+
+// For example, consider the following Binary Tree. 
+// 63525N4NN74
+// There are 4 leaves, hence 4 root to leaf paths:
+
+//    Path                      Number
+
+//   6->3->2                     632
+
+//   6->3->5->7                 6357
+
+//   6->3->5->4                 6354
+
+//   6->5>4                      654   
+
+// Answer = 632 + 6357 + 6354 + 654 = 13997
+// Example
+// Input:
+
+// 123456789
+// Output:
+
+// 2895
+
+
 //4
 
 
